@@ -11,7 +11,7 @@ public class Controller2 {
 
     @RequestMapping("/")
     public String first(){
-        return "Hello2";
+        return "Hello22";
     }
     @RequestMapping("/app")
     public String second(){
